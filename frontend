@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fintech Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Fintech Platform</h1>
+        <button id="create-account">Create Account</button>
+        <button id="deposit">Deposit</button>
+        <div id="account-info"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
